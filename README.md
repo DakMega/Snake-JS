@@ -1,4 +1,4 @@
-# _Snake-JS_
+# 🐕_Snake-JS_ **(Bonk Edition)**🐕
 ### _Famous game in modern realization_
 Basic game showing the possibilities of JavaScript
 
