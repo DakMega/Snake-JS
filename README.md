@@ -20,8 +20,8 @@ Basic game showing the possibilities of JavaScript
 
 ## Take a look
 > So, the goal is simple - to make the snake as long as possible. But it's not actually a ~~snake~~, it's a *Cheems*, aka a bonk dog.
-> ![Total look](https://user-images.githubusercontent.com/91286468/164553436-6fffef32-e528-445e-87eb-1fdd2e88becf.png)
+![Total look](https://user-images.githubusercontent.com/91286468/164553436-6fffef32-e528-445e-87eb-1fdd2e88becf.png)
 > To make your Cheems longer, you must collect **Bonks** 
-> ![Bonk as food](https://user-images.githubusercontent.com/91286468/164554454-f5bd3888-18a1-46ff-b279-553872c67a20.png)
+![Bonk as food](https://user-images.githubusercontent.com/91286468/164554454-f5bd3888-18a1-46ff-b279-553872c67a20.png)
 > If you're not dexterous enough, you'll crash and have to start over.
-> ![Сrash](https://user-images.githubusercontent.com/91286468/164554641-826c2d52-51c9-46a0-860d-0ffeecc94824.png)
+![Сrash](https://user-images.githubusercontent.com/91286468/164554641-826c2d52-51c9-46a0-860d-0ffeecc94824.png)
