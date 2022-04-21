@@ -13,11 +13,6 @@ Basic game, that shows possibilities of JavaScript
 - Watch your head)
 
 
-> Snake — компьютерная игра, впервые появившаяся в кнопочном
-> телефоне Nokia 6110. Разработана финским разработчиком
-> Танели Арманто и выпущена компанией Nokia.
-
-This text you see here is *actually- written in Markdown! To get a feel
-for Markdown's syntax, type some text into the left window and
-watch the results in the right.
-
+> Snake is a video game genre where the player maneuvers a growing line that becomes a primary obstacle to itself.
+> The concept originated in the 1976 two-player arcade game Blockade from Gremlin Industries,
+> and the ease of implementation has led to hundreds of versions for many platforms.
